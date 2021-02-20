@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 from __future__ import print_function
 import tornado.ioloop, tornado.web, tornado.autoreload
 from tornado.escape import json_encode, json_decode
