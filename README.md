@@ -27,6 +27,10 @@ $ python3 handler.py
 - https://twitter.com/bbuerhaus/
 - https://twitter.com/nahamsec/
 
+# Editor
+
+- https://twitter.com/TheCrysp/
+
 # Inspired By
 
 - https://twitter.com/jobertabma/
