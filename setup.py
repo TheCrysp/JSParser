@@ -6,7 +6,6 @@ setup(
     version='1.0',
     packages=find_packages(),
     description="",
-    long_description=open('README.md').read(),
     author='Ben Sadeghipour',
     url='https://github.com/nahamsec/JSParser',
     install_requires=['safeurl', 'tornado<=5.1', 'jsbeautifier',
